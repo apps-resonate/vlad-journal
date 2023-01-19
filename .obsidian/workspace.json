@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83e6f0b0abd53b2d",
+        "id": "3f09106132049d52",
         "type": "tabs",
         "children": [
           {
-            "id": "96bdc0ffa01a92e2",
+            "id": "8027cb862084ac38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Standup/2023/01-January/2023-01-18 (Wednesday).md",
+                "file": "Daily Standup/2023/01-January/2023-01-19 (Thursday).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Standup/2023/01-January/2023-01-18 (Wednesday).md",
+                "file": "Daily Standup/2023/01-January/2023-01-19 (Thursday).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Standup/2023/01-January/2023-01-18 (Wednesday).md",
+                "file": "Daily Standup/2023/01-January/2023-01-19 (Thursday).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Standup/2023/01-January/2023-01-18 (Wednesday).md"
+                "file": "Daily Standup/2023/01-January/2023-01-19 (Thursday).md"
               }
             }
           },
@@ -164,10 +164,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96bdc0ffa01a92e2",
+  "active": "8027cb862084ac38",
   "lastOpenFiles": [
+    "Daily Standup/2023/01-January/2023-01-18 (Wednesday).md",
     "Daily Standup/2023/01-January/2023-01-17 (Tuesday).md",
     "Daily Standup/2023/01-January/2023-01-16 (Monday).md",
+    "Daily Standup/2023/01-January/2023-01-19 (Thursday).md",
     "Daily Standup/Daily Notes Template.md",
     "2023-01-16.md",
     "Daily Standup/2023/01-January/Untitled.md",
