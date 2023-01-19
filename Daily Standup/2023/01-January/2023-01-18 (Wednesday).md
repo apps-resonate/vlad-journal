@@ -8,7 +8,6 @@
 
   >[!info]- Email Account
 	> Email: apps@resonateasia.com
-	> Password: Resonateislove2023
 
 - Assisted Bos on his Wildcard search task
 

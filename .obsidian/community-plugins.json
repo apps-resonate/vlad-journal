@@ -1,6 +1,15 @@
 [
   "calendar",
+  "obsidian-kanban",
   "table-editor-obsidian",
-  "obsidian-git",
-  "obsidian-checklist-plugin"
+  "obsidian-excel-to-markdown-table",
+  "multi-column-markdown",
+  "obsidian-style-settings",
+  "obsidian-emoji-toolbar",
+  "obsidian-pandoc",
+  "obsidian-tasks-plugin",
+  "obsidian-admonition",
+  "obsidian-checklist-plugin",
+  "obsidian-smart-typography",
+  "obsidian-git"
 ]

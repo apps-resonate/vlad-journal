@@ -1,3 +1,11 @@
 {
-  "accentColor": ""
+  "translucency": false,
+  "cssTheme": "deeper work",
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "GraphColor",
+    "GraphColor2"
+  ],
+  "accentColor": "#0099b8"
 }
