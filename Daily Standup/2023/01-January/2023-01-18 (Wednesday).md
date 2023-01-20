@@ -1,3 +1,5 @@
+#daily-notes | #January-2023
+
 ## What I did today
 
 
@@ -22,12 +24,9 @@
 	
 		
 
-#### To Do
+### To Do
 
 ## Concerns For Huddle
 
 - Would like to know specific steps to replicate--because in the video of bug, only the mail is open and then from their the issue appears. ^request-complete-video
 
-## Tags
-
-#daily-notes #January2023

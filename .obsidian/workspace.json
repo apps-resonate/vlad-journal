@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story Notes/Letter Offer.md",
+                "file": "Stories/Letter Offer.md",
                 "mode": "source",
                 "source": true
               }
@@ -35,8 +35,12 @@
             "id": "993fb722a70f7299",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Stories/Letter Offer.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stories/Letter Offer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stories/Letter Offer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stories/Letter Offer.md"
+              }
             }
           },
           {
@@ -184,13 +192,13 @@
   },
   "active": "993fb722a70f7299",
   "lastOpenFiles": [
+    "Daily Standup/Daily Notes Template.md",
     "Daily Standup/2023/01-January/2023-01-16 (Monday).md",
     "Daily Standup/2023/01-January/2023-01-17 (Tuesday).md",
     "Daily Standup/2023/01-January/2023-01-18 (Wednesday).md",
     "Daily Standup/2023/01-January/2023-01-19 (Thursday).md",
     "Daily Standup/2023/01-January/2023-01-20 (Friday).md",
-    "Daily Standup/Daily Notes Template.md",
-    "Story Notes/Letter Offer.md",
+    "Stories/Letter Offer.md",
     "Story Notes/Untitled.md",
     "README.md",
     "Daily Standup/11-November/2022-11-28 (Monday).md"

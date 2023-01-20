@@ -1,14 +1,17 @@
+#daily-notes | #January-2023
+
 ## What I did today
 
 
 ### General
 
-- Daily Stand-up:
+- Daily Stand-up: 
+
+### To Do
 
 
-#### To Do
+### To Ask
+
 
 ## Concerns For Huddle
 
-## Tags
-#daily-notes

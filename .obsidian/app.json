@@ -6,7 +6,7 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "attachmentFolderPath": "HRIS 2.0/Images",
+  "attachmentFolderPath": "Attachments",
   "livePreview": false,
   "pdfExportSettings": {
     "includeName": true,
@@ -15,5 +15,6 @@
     "margin": "0",
     "downscalePercent": 70
   },
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "defaultViewMode": "preview"
 }
