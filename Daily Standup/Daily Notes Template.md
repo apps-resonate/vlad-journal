@@ -10,3 +10,5 @@
 
 ## Concerns For Huddle
 
+## Tags
+#daily-notes

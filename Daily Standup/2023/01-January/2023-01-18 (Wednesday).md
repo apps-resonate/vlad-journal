@@ -28,3 +28,6 @@
 
 - Would like to know specific steps to replicate--because in the video of bug, only the mail is open and then from their the issue appears. ^request-complete-video
 
+## Tags
+
+#daily-notes #January2023
