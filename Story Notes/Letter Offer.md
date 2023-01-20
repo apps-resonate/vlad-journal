@@ -1,0 +1,25 @@
+## Fields description
+
+-   Lease Period (Date) MM/DD/YY format:
+    -   From
+    -   To
+-   Monthly Rent (numeric in peso):
+-   Number of Occupant (numeric)
+-   Number of Parking Slot (numeric)
+-   Pets (Dropdown)
+    -   Option 1: Yes - If Yes, add an input field:
+        -   Specify Pet if dog, cat, etc (freetext)
+    -   Option 2: No
+-   Security Deposit (Dropdown)
+    -   Option 1: Two (2) Months
+    -   Option 2: Others - If Others is selected, add an input field
+        -   inputfield - freetext
+-   Payment Terms (Dropdown)
+    -   Option 1: One (1) Year Advanced Rent Payment
+    -   Option 2: Others - If Others is selected, add an input field
+        -   inputfield - freetext
+-   Pre-Termination (Dropdown)
+    -   Option 1: This lease is guaranteed for the entire duration of this Contract of Lease
+    -   Option 2: Others - If Others is selected, add an input field
+        -   inputfield - freetext
+-   Special Requests (freetext)
