@@ -35,8 +35,12 @@
             "id": "993fb722a70f7299",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Standup/2023/01-January/2023-01-20 (Friday).md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Standup/2023/01-January/2023-01-20 (Friday).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Standup/2023/01-January/2023-01-20 (Friday).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Standup/2023/01-January/2023-01-20 (Friday).md"
+              }
             }
           },
           {
