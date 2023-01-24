@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Standup/2023/01-January/2023-01-23 (Monday).md",
+                "file": "Daily Standup/2023/01-January/2023-01-24 (Tuesday).md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Standup/2023/01-January/2023-01-23 (Monday).md",
+                "file": "Daily Standup/2023/01-January/2023-01-24 (Tuesday).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Standup/2023/01-January/2023-01-23 (Monday).md",
+                "file": "Daily Standup/2023/01-January/2023-01-24 (Tuesday).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Standup/2023/01-January/2023-01-23 (Monday).md"
+                "file": "Daily Standup/2023/01-January/2023-01-24 (Tuesday).md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "993fb722a70f7299",
   "lastOpenFiles": [
+    "Daily Standup/2023/01-January/2023-01-23 (Monday).md",
     "Daily Standup/2023/01-January/2023-01-20 (Friday).md",
     "Daily Standup/Daily Notes Template.md",
     "Daily Standup/2023/01-January/2023-01-19 (Thursday).md",
@@ -200,7 +201,6 @@
     "Daily Standup/2023/01-January/2023-01-16 (Monday).md",
     "Stories/Letter Offer.md",
     "Story Notes/Untitled.md",
-    "README.md",
-    "Daily Standup/11-November/2022-11-28 (Monday).md"
+    "README.md"
   ]
 }
