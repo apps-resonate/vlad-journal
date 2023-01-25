@@ -5,19 +5,26 @@
 
 ### General
 
-- Daily Stand-up: 
+- Daily Stand-up: 1 hr
 
 ### To Do
 
-- Partner programming on Ransack with [[Edward]]
-- Test form upon obtaining Database
-- Try to start understanding views in ALLRS
+#### Ransackify Search and filters
+- Partner programming on Ransack with [[Edward]] and [[Bos]]
+- Attempted to finish the work to convert all search to use Ransack
+
+#### Letter Offer
+
+- [x] #totasks Test letter offer creation form upon obtaining database dump from Edward ✅ 2023-01-26
+- Fix code to work under the namespace `member`
+- Attempted to understand views in ALLRS → passed to [[Bos]]
 
 ### To Ask
 
 - ask for Database dump for [[ALLRS]] for faster testing
-	- [[Edward]] to provide CSV sample data and I will use uploads feature of [[ALLRS]]
+	- [x] #totasks[[Edward]] to provide CSV sample data and I will use uploads feature of [[ALLRS]] ✅ 2023-01-25
 
 ## Concerns For Huddle
 
 - Confirm understanding of [[Letter Offer]]
+	> [!success] Communicated our concern on not being able to finish Letter Offer by 27.
