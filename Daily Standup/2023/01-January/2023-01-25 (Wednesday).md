@@ -16,7 +16,7 @@
 ### To Ask
 
 - ask for Database dump for [[ALLRS]] for faster testing
-- 
+	- [[Edward]] to provide CSV sample data and I will use uploads feature of [[ALLRS]]
 
 ## Concerns For Huddle
 
