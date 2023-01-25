@@ -13,12 +13,12 @@
 
 - Assisted Bos on his Wildcard search task
 
-- Set up Saturn on my Local machine 
-- Reviewed issue assigned to me by Edward
-	- Expected: "Get Started" from Email from must open a new tab to go directly to dashboard as a signed-in user. 
-	- Issue: The Link goes to the homepage and does not log in the user.
+- Set up [[Saturn]] on my Local machine 
+- Reviewed issue assigned to me by [[Edward]]
+	- Expected: "[[Get Started]]" from [[Email]] from must open a new tab to go directly to dashboard as a signed-in user. 
+	- [[Issue]]: The Link goes to the homepage and does not log in the user.
 	- Started investigating the issue link to dashboard issue
-	- Trying to replicate the issue on staging but I cannot seem to experience it
+	- Trying to replicate the issue on [[staging]] but I cannot seem to experience it
 		- Creating a new User and confirming to access it.
 		- I did try closing and then opening the browser (assumed might be a session issue) but it is still working for me
 	
