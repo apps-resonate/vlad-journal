@@ -27,5 +27,3 @@
 
 ## Concerns For Huddle
 
-- Confirm understanding of [[Letter Offer]]
-	> [!success] Communicated our concern on not being able to finish Letter Offer by 27.
