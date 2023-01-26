@@ -7,6 +7,11 @@
 
 - Daily Stand-up: 1 hr
 
+### To Ask
+
+- ask for Database dump for [[ALLRS]] for faster testing
+	- [x] #totasks[[Edward]] to provide CSV sample data and I will use uploads feature of [[ALLRS]] ✅ 2023-01-25
+
 ### To Do
 
 #### Ransackify Search and filters
@@ -19,10 +24,6 @@
 - Fix code to work under the namespace `member`
 - Attempted to understand views in ALLRS → passed to [[Bos]]
 
-### To Ask
-
-- ask for Database dump for [[ALLRS]] for faster testing
-	- [x] #totasks[[Edward]] to provide CSV sample data and I will use uploads feature of [[ALLRS]] ✅ 2023-01-25
 
 ## Concerns For Huddle
 
