@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Standup/2023/01-January/Invoice for January 16-31.md",
-                "mode": "source",
+                "file": "Daily Standup/2023/01-January/2023-01-31 (Tuesday).md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Standup/2023/01-January/Invoice for January 16-31.md",
+                "file": "Daily Standup/2023/01-January/2023-01-31 (Tuesday).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Standup/2023/01-January/Invoice for January 16-31.md",
+                "file": "Daily Standup/2023/01-January/2023-01-31 (Tuesday).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Standup/2023/01-January/Invoice for January 16-31.md"
+                "file": "Daily Standup/2023/01-January/2023-01-31 (Tuesday).md"
               }
             }
           },
@@ -200,9 +200,9 @@
   },
   "active": "d4ac946b8b2ba340",
   "lastOpenFiles": [
+    "Daily Standup/2023/01-January/Invoice for January 16-31.md",
     "Daily Standup/2023/01-January/2023-01-30 (Monday).md",
     "Daily Standup/2023/01-January/2023-01-31 (Tuesday).md",
-    "Daily Standup/2023/01-January/Invoice for January 16-31.md",
     "Daily Standup/2023/01-January/2023-01-27 (Friday).md",
     "Daily Standup/2023/01-January/2023-01-25 (Wednesday).md",
     "Daily Standup/2023/01-January/2023-01-24 (Tuesday).md",
