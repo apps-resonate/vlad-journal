@@ -5,7 +5,7 @@
 
 ### General
 
-- Daily Stand-up: 
+- Daily Stand-up: 40 mins
 
 ### To Do
 
