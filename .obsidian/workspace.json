@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Standup/2023/02-February/2023-02-08 (Wednesday).md",
+                "file": "Daily Standup/2023/02-February/2023-02-07 (Tuesday).md",
                 "mode": "source",
                 "source": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Standup/2023/02-February/2023-02-08 (Wednesday).md",
+                "file": "Daily Standup/2023/02-February/2023-02-07 (Tuesday).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Standup/2023/02-February/2023-02-08 (Wednesday).md",
+                "file": "Daily Standup/2023/02-February/2023-02-07 (Tuesday).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Standup/2023/02-February/2023-02-08 (Wednesday).md"
+                "file": "Daily Standup/2023/02-February/2023-02-07 (Tuesday).md"
               }
             }
           },
@@ -200,6 +200,8 @@
   },
   "active": "d4ac946b8b2ba340",
   "lastOpenFiles": [
+    "Daily Standup/2023/02-February/2023-02-08 (Wednesday).md",
+    "Daily Standup/2023/02-February/2023-02-09 (Thursday).md",
     "Daily Standup/2023/02-February/2023-02-07 (Tuesday).md",
     "Daily Standup/2023/02-February/2023-02-06 (Monday).md",
     "Daily Standup/2023/02-February/2023-02-03 (Friday).md",
@@ -207,8 +209,6 @@
     "Daily Standup/2023/02-February/2023-02-01 (Wednesday).md",
     "Daily Standup/2023/01-January/2023-01-31 (Tuesday).md",
     "Daily Standup/2023/01-January/Invoice for January 16-31.md",
-    "Daily Standup/Daily Notes Template.md",
-    "Daily Standup/2023/01-January/2023-01-30 (Monday).md",
-    "Daily Standup/2023/01-January/2023-01-27 (Friday).md"
+    "Daily Standup/Daily Notes Template.md"
   ]
 }
