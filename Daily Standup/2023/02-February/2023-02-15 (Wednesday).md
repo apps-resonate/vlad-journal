@@ -15,6 +15,7 @@
 
 - Create Uploads for Leisure Share, Raw Land, and Residential Lot
 - Hide upload option: Townhouse
+- Fix Parking Space
 - Created [[Work Invoice for Feb 1st half]]
 
 ### To Ask
