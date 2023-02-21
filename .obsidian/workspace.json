@@ -8,37 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b370764a79f02a8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Standup/2023/01-January/2023-01-27 (Friday).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "aceea107db30d4a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Standup/2023/01-January/2023-01-16 (Monday).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "d4ac946b8b2ba340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily Standup/2023/02-February/2023-02-21 (Tuesday).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -51,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,13 +153,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,15 +173,15 @@
   },
   "active": "d4ac946b8b2ba340",
   "lastOpenFiles": [
+    "Rewrite to Ransack.md",
+    "Daily Standup/2023/02-February/2023-02-21 (Tuesday).md",
+    "Daily Standup/2023/02-February/2023-02-22 (Wednesday).md",
+    "Rewrite to Ransack^RewriteToRansackChecklist^.md",
+    "Daily Standup/2023/02-February/2023-02-20 (Monday).md",
+    "Daily Standup/2023/01-January/2023-01-27 (Friday).md",
+    "Daily Standup/2023/01-January/2023-01-16 (Monday).md",
     "Daily Standup/2023/02-February/2023-02-17 (Friday).md",
     "Daily Standup/2023/02-February/2023-02-16 (Thursday).md",
-    "Daily Standup/2023/02-February/2023-02-21 (Tuesday).md",
-    "Daily Standup/2023/02-February/2023-02-15 (Wednesday).md",
-    "Work Invoice for Feb 1st half.md",
-    "Daily Standup/2023/02-February/2023-02-14 (Tuesday).md",
-    "Daily Standup/2023/02-February/2023-02-13 (Monday).md",
-    "Daily Standup/2023/02-February/2023-02-10 (Friday).md",
-    "Daily Standup/2023/02-February/2023-02-09 (Thursday).md",
-    "Daily Standup/2023/02-February/2023-02-08 (Wednesday).md"
+    "Daily Standup/2023/02-February/2023-02-15 (Wednesday).md"
   ]
 }

@@ -1,0 +1,21 @@
+- Converted Search fields to ransack
+  - [x] Property Type
+  - [x] Unit Status (Transaction Type)
+  - [x] Location
+  - [x] Size
+  - [x] Search by Reference ID or Project Name
+- Converted Sort to to Ransort
+	- [x] Price (Low - High)
+	- [x] Price (High - Low)
+	- Added New Sort
+		- [x] Availability sorting first sorts by `unit_status (availability)`  and then by `recommendations (featured)`
+	- [ ] Convert and Fix Most Viewed Sorting
+- Converted Filters to Ransack
+	- [x] Minimum Price
+	- [x] Maximum Price
+	- [ ] Location
+	- [ ] Fit out
+	- [ ] Features and Amenities
+	- [ ] Bedrooms 
+
+^RewriteToRansackChecklist
