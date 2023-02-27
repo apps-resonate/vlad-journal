@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "565ade3d98c03625",
+        "id": "e04e8c58fd67017e",
         "type": "tabs",
         "children": [
           {
-            "id": "1fdca51e1c3ed153",
+            "id": "dace3e9bad1ae21a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Standup/2023/02-February/2023-02-21 (Tuesday).md",
-                "mode": "source",
+                "file": "Daily Standup/2023/02-February/2023-02-23 (Thursday).md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Standup/2023/02-February/2023-02-21 (Tuesday).md",
+                "file": "Daily Standup/2023/02-February/2023-02-23 (Thursday).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Standup/2023/02-February/2023-02-21 (Tuesday).md",
+                "file": "Daily Standup/2023/02-February/2023-02-23 (Thursday).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Standup/2023/02-February/2023-02-21 (Tuesday).md"
+                "file": "Daily Standup/2023/02-February/2023-02-23 (Thursday).md"
               }
             }
           },
@@ -144,12 +144,22 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "0d6597c32a6a10ca",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,12 +173,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1fdca51e1c3ed153",
+  "active": "c88dbb9fcbc9fae6",
   "lastOpenFiles": [
+    "Daily Standup/2023/02-February/2023-02-27 (Monday).md",
+    "Daily Standup/2023/02-February/2023-02-23 (Thursday).md",
     "Daily Standup/2023/02-February/2023-02-22 (Wednesday).md",
     "Daily Standup/2023/02-February/2023-02-21 (Tuesday).md",
-    "Daily Standup/2023/02-February/2023-02-17 (Friday).md",
     "Daily Standup/2023/02-February/2023-02-20 (Monday).md",
+    "Daily Standup/2023/02-February/2023-02-17 (Friday).md",
     "Story Points.md",
     "Rewrite to Ransack.md",
     "Rewrite to Ransack^RewriteToRansackChecklist^.md",
