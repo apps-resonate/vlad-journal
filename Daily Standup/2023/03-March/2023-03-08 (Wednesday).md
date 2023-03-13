@@ -13,8 +13,8 @@
 - also fixed and used ransack in the mobile view of the search form
 
 ### To Do
-- Add has_many - belongs to relationship
-- add dependent destroy
+- [ ] #totasks Add has_many - belongs to relationship
+-  [ ] #totasks add dependent destroy
 
 ## Concerns For Huddle
 
