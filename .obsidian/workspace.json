@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Standup/2023/03-March/2023-03-09 (Thursday).md",
+                "file": "Daily Standup/2023/03-March/2023-03-13 (Monday).md",
                 "mode": "source",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa29196910d70fdc",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Standup/2023/03-March/2023-03-09 (Thursday).md",
+                "file": "Daily Standup/2023/03-March/2023-03-13 (Monday).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Standup/2023/03-March/2023-03-09 (Thursday).md",
+                "file": "Daily Standup/2023/03-March/2023-03-13 (Monday).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Standup/2023/03-March/2023-03-09 (Thursday).md"
+                "file": "Daily Standup/2023/03-March/2023-03-13 (Monday).md"
               }
             }
           },
@@ -158,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5,
-    "collapsed": true
+    "width": 482.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +171,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "87bbbac31aec639c",
+  "active": "dace3e9bad1ae21a",
   "lastOpenFiles": [
-    "Daily Standup/2023/03-March/2023-03-08 (Wednesday).md",
+    "Daily Standup/2023/03-March/2023-03-10 (Friday).md",
+    "Daily Standup/2023/03-March/2023-03-13 (Monday).md",
     "Daily Standup/2023/03-March/2023-03-09 (Thursday).md",
+    "Daily Standup/2023/03-March/2023-03-08 (Wednesday).md",
     "Daily Standup/2023/03-March/2023-03-07 (Tuesday).md",
     "Daily Standup/2023/03-March/2023-03-06 (Monday).md",
     "Daily Standup/2023/03-March/2023-03-03 (Friday).md",
